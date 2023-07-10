@@ -2,4 +2,4 @@
 ![Screenshot](DefaultAppScreen.jpg)
 
 # App APK Download Link:
-Still needs to be added
+https://drive.google.com/file/d/1U48250mMigwZNcKvXcjhTrtXgE_FctvE/view?usp=drive_link
